@@ -16,11 +16,11 @@ A página apresenta as seguintes seções:
 
 ## 📁 Estrutura do Projeto
 
-├── Atividade.html
-├── foto.webp
-├── fim.html
-├──	morte.webp
-└── README.md
+- Atividade.html
+- foto.webp
+- fim.html
+-	morte.webp
+- README.md
 
 
 📝 Notas
